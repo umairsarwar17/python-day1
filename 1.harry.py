@@ -1,3 +1,4 @@
+# Print the "Twinkle, Twinkle, Little Star" Poem
 print('''
       Twinkle, twinkle, little star,
 How I wonder what you are!
@@ -23,11 +24,4 @@ As your bright and tiny spark
 Lights the traveler in the dark,
 Though I know not what you are,
 Twinkle, twinkle, little star.
-      ''')
-# ....................2nd
-# import pyttsx3
-
-# engine = pyttsx3.init()
-# engine.say("Hi Umair, how are you? Welcome to the Python world.")
-# engine.runAndWait()
-
+''')
